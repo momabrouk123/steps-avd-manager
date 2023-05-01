@@ -51,7 +51,7 @@ inputs:
 
       To see the complete list of available profiles use the `avdmanager list device` command locally and use the `id` value for this input.
     is_required: true
-- api_level: 26
+- api_level: 31
   opts:
     title: Android API Level
     summary: The device will run with the specified version of android.
